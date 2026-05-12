@@ -1,0 +1,17 @@
+# Object files
+*.o
+
+# Executable
+addressbook
+addressbook.exe
+
+# VS Code
+.vscode/
+
+# Temporary files
+*.tmp
+*.log
+
+# OS garbage
+.DS_Store
+Thumbs.db
